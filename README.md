@@ -3,7 +3,8 @@
 API para registro y login de usuario.
 Configuracion de postgress
 
-    'NAME': 'user_task',
-    'USER': 'postgres',
-    'HOST': '127.0.0.1',
-    'PORT': '5432',
+        'NAME': 'postgres',
+        'USER': 'postgres',
+        'PASSWORD': 'postgres',
+        'HOST': 'db',
+        'PORT': 5432,
